@@ -31,7 +31,6 @@ public class HitungMassaVolume {
         } else {
             System.out.println("Pilihan tidak valid.");
         }
-        System.out.println("Terima Kasih :D");
         input.close();
     }
 
